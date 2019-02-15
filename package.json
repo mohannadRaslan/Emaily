@@ -1,0 +1,25 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "React course for building Emaily website",
+  "main": "index.js",
+  "engines": {
+    "node": "11.8.0",
+    "npm": "6.5.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "mongoDB",
+    "mongoose"
+  ],
+  "author": "Mohannad Raslan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
